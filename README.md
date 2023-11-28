@@ -2,7 +2,7 @@
 Data sample, results, and code associated with Geophysical Prospecting Hyperparameter Optimization Paper 
 
 
-# A1.	Computational Environment
+# 	Computational Environment
 
 This section of the appendix will briefly cover the computational environment that was used to write and run the code. It will be split into hardware and software sections.
 
